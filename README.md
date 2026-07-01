@@ -1,5 +1,5 @@
 <h2> Hi, I'm Issaqq! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>CS Grad at USC
+<p><em>CS Grad at Mumbai Uni
 </p>
 
 [![Twitter: liquid_slr](https://img.shields.io/twitter/follow/issaqkppp?style=social)](https://x.com/issaqkppp)

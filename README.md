@@ -1,9 +1,4 @@
-
-
-
-<h2> Hi, I'm Gaurav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<!-- <h2> Hi, I'm Gaurav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Issaqq! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>CS Grad at USC
 </p>
 
@@ -26,4 +21,4 @@ const about = {
 
 <b>I I love connecting with different people</b> just say <b>hi, I'll be happy to connect</b> :)</em>
 
---- -->
+---

@@ -1,4 +1,4 @@
-
+<!-- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 <br>
 <img src="https://github.com/kstubhieeee/CreativeNexus/blob/master/banner%20(1).png" >
@@ -30,10 +30,10 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/github-contribution-grid-snake-dark.svg) -->
 
 
-
+<h2> Hi, I'm Gaurav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <!-- <h2> Hi, I'm Gaurav! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>CS Grad at USC

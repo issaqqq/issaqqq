@@ -19,7 +19,7 @@ const about = {
 }
 ```
 
-<b>I I love connecting with different people</b> just say <b>hi, I'll be happy to connect</b> :)</em>
+<p>I love connecting with different people</p> just say <b>hi, I'll be happy to connect</b> :)</em>
 
 ---
 
@@ -33,4 +33,4 @@ const about = {
 
 -----
 
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
+Click buttons above to issue new gamepad input, refresh this page to view newest game screen.
